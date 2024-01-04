@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QR Code Scanner</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="no_barcode_detected">No Barcode Detected</string>
+    <string name="add_content_in_the_mail">ADD CONTENT IN THE MAIL</string>
+    <string name="body">Body</string>
+    <string name="subject">Subject</string>
+    <string name="email_address">Email Address:</string>
+    <string name="send_email">Send Email</string>
+    <string name="scan_any_qr_code">Scan any QR code</string>
+    <string name="back_button">Back Button</string>
+</resources>
